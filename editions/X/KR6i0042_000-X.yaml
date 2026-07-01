@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0042/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 彌勒下生經述贊
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0389.xml
+    old_id: X21n0389
+hash: sha256:48afe2f9ffbcf3e241bb0f4b0a2a23e744e8533a0d6b9ca6a54ad32a5319f3be

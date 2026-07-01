@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0042/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0042/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 彌勒下生經述贊
+  identifiers:
+    krp: KR6i0042
+    cbeta: X21n0389
+    cbeta_old_id: X21n0389
+    authorityid: CA0002195
+    json_key: X0389
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0389.xml
+    old_id: X21n0389
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0042_000-X.yaml, hash: 'sha256:48afe2f9ffbcf3e241bb0f4b0a2a23e744e8533a0d6b9ca6a54ad32a5319f3be'}
+  - {seq: 1, filename: KR6i0042_001-X.yaml, hash: 'sha256:e7e8dd9f3687ed5f311937e4b7e6cb68d7fa717a54b6e113cc5ac0b06febbf64'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0042_000-X.markers.yaml, hash: 'sha256:2b5c26f01b3e347a1494938dae5bbef75c64e81bf00c662738734f28ebbb6e8d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0042_001-X.markers.yaml, hash: 'sha256:e944fec04a7e14ffda5f39462555522ba3d10b8cc5c6c604c5bcf467e7af00af'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0042_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2791
+  label: 佛說彌勒下生經述贊
+  type: juan
+  level: 1
+hash: sha256:93e865db07f6bae0caacf2e149b6823de16b41ad7d93249f3570c7a4b24f67af
