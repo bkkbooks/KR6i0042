@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0042_000.yaml, hash: 'sha256:48afe2f9ffbcf3e241bb0f4b0a2a23e744e8533a0d6b9ca6a54ad32a5319f3be'}
-  - {seq: 1, filename: KR6i0042_001.yaml, hash: 'sha256:f87c4ebbfb8389816e9313978fd5f39027cedf3f174b03ff3436fdf0ff2d8c23'}
+  - {seq: 1, filename: KR6i0042_001.yaml, hash: 'sha256:e7e8dd9f3687ed5f311937e4b7e6cb68d7fa717a54b6e113cc5ac0b06febbf64'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0042_001.markers.yaml, hash: 'sha256:b992ab55c6e65b531d224cd91d55d3249b622419846a0ee2b87a92a7ff5a6866'}
+  - {seq: 0, role: markers, filename: assets/KR6i0042_000.markers.yaml, hash: 'sha256:e69207896ee4fa64a62a2b82e339e4f66144001fd7745b4e73d291300bd5c1d4'}
+  - {seq: 1, role: markers, filename: assets/KR6i0042_001.markers.yaml, hash: 'sha256:41969933e9715170bd0ec91dd21eb85efb72bc1a21c5fdac6c154d40475e20cc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說彌勒下生經述贊
   type: juan
   level: 1
-hash: sha256:e687280d490372bb80bdc7ba2cfec0af90fdc0277c4bf87fb63668fb46600037
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:83695630068902d728f39aa032aab54c0048708501e10719a6327277d579a788
