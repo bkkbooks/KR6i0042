@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0042/v1
 canonical_location: https://kanripo.org/bkk/KR6i0042/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 彌勒下生經述贊
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0042_000.yaml, hash: 'sha256:48afe2f9ffbcf3e241bb0f4b0a2a23e744e8533a0d6b9ca6a54ad32a5319f3be'}
-  - {seq: 1, filename: KR6i0042_001.yaml, hash: 'sha256:e7e8dd9f3687ed5f311937e4b7e6cb68d7fa717a54b6e113cc5ac0b06febbf64'}
+  - {seq: 1, filename: KR6i0042_001.yaml, hash: 'sha256:3a7f33fc89040580bbdcdd4834f326b65a7134ca2ab49b2c4f47b1c932a7536b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0042_000.markers.yaml, hash: 'sha256:e69207896ee4fa64a62a2b82e339e4f66144001fd7745b4e73d291300bd5c1d4'}
-  - {seq: 1, role: markers, filename: assets/KR6i0042_001.markers.yaml, hash: 'sha256:41969933e9715170bd0ec91dd21eb85efb72bc1a21c5fdac6c154d40475e20cc'}
+  - {seq: 1, role: markers, filename: assets/KR6i0042_001.markers.yaml, hash: 'sha256:b4ae8115540597d0ccfec3b326194787951412c8890436b9666c1bdf9ab16634'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說彌勒下生經述贊
   type: juan
   level: 1
-hash: sha256:83695630068902d728f39aa032aab54c0048708501e10719a6327277d579a788
+hash: sha256:0cca3cf9d11025ba649653b277e66d26dab10dc8493e66f09527e634f2137492
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
